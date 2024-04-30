@@ -1,1 +1,1 @@
-# lab6
+### Lab 6 - LLM and Chat Bots
